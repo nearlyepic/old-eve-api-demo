@@ -10,3 +10,5 @@ There is a rudimentary login and registration system implemented. You can get an
 `charsheet.php` is another standalone script, It uses a Key ID and vCode to get the account balance, name, and picture of all characters on an account.
 
 This is very much an example of the "hard way" to do PHP (no framework, no templating), and not necessarily reflective of my current skill. If I were to rebuild this, I would absolutely use a framework such as Laravel.
+
+NOTE: This requires you to set up a database with the EVE Online Static Data Export. You can find the SQL for this at [Fuzzwork](https://www.fuzzwork.co.uk/dump/).
